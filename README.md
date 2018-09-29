@@ -16,6 +16,7 @@ Task 5: Create a new column named "engine" which contains the values of horse_po
 Task 6: Create a new column which contains the difference between each car's price and the average price of all cars.
 
 Task 7: For each "make" value (which is the brand) show the average of price difference (produced in task 6) and the mode of "engine" (produced in task 5).
+
 -----------------------------------------------------
 Review Assignment 2: Complete this assignment by Mehr 16, 12 PM.
 
