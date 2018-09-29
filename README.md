@@ -32,7 +32,7 @@ Task 5: Join "body-style" and "drive-wheels" columns from the original dataset (
 
 Task 6: Assign different colors to each cluster.
 
-Task 7: Use a scatter plot to visualize data on price and average mpg and in the cluster that contains cars with the highest average mpg, select 3 cars which are a bit seperated from the others and have the highest average mpg.
+Task 7: Use a scatter plot to visualize data on price and average mpg. In the cluster that contains cars with the highest average mpg, select 3 cars which are a bit seperated from the others and have the highest average mpg.
 
 Task 8: Filter out the selected cars in the previous task.
 
