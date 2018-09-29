@@ -26,7 +26,7 @@ Task 2: Normalize price and average mpg by Min-Max normalization. Set min to 0 a
 
 Task 3: Use K-Means for clustering based on price and average mpg. Set number of clusters to 4.
 
-Task 4: Denormalize price and average mpg using the normalization model created in task 2.
+Task 4: Denormalize price and average mpg using the normalization model built in task 2.
 
 Task 5: Join "body-style" and "drive-wheels" columns from the original dataset (the output of task 1 in review assignment 1) to the current set based on row IDs.
 
