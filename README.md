@@ -40,4 +40,4 @@ Task 9: Filter out the column created in task 7.
 
 Task 10: Devide the dataset into 2 parts (4:1).
 
-Task 11: Use Desicion Tree and Naive Bayes to train 2 classification models and evaluate both of them.
+Task 11: Use Desicion Tree and Naive Bayes to train 2 classification models (use clusters as classes) and evaluate both of them.
