@@ -61,4 +61,4 @@ Part 2: In this part you are going to loop over a get request to openweathermap.
 
 Task 6: Go to openweathermap.org and read the API documentation of the website and collect the current weather info of the cities you have selected by city IDs.
 
-Bonus Task: Find the states that each city belongs to and then show the mode of weather status for each state.
+Additional Task: Find the states that each city belongs to and then show the mode of weather status for each state.
