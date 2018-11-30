@@ -43,7 +43,7 @@ Task 10: Devide the dataset into 2 parts (4:1).
 Task 11: Use Desicion Tree and Naive Bayes to train 2 classification models (use clusters as classes) and evaluate both of them.
 
 -----------------------------------------------------
-Main Assignment 1: To complete this assignment you need to download a json file from this link: http://bulk.openweathermap.org/sample/city.list.json.gz which is the list of cities and their IDs at openweathermap.org; You are going to use the website's api to collect weather information of selected cities.
+Main Assignment 1: To complete this assignment you need to download a json file from this link: http://bulk.openweathermap.org/sample/city.list.json.gz which contains the list of cities and their IDs at openweathermap.org; You are going to use the website's api to collect weather information of selected cities.
 
 Part 1: In this part you are going to prepare a list of cities in Iran and their IDs:
 
