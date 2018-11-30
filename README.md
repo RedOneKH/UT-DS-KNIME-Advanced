@@ -41,3 +41,24 @@ Task 9: Filter out the column created in task 7.
 Task 10: Devide the dataset into 2 parts (4:1).
 
 Task 11: Use Desicion Tree and Naive Bayes to train 2 classification models (use clusters as classes) and evaluate both of them.
+
+-----------------------------------------------------
+Main Assignment 1: To complete this assignment you need to download a json file from this link: http://bulk.openweathermap.org/sample/city.list.json.gz which is the list of cities and their IDs at openweathermap.org; You are going to use the website's api to collect weather information of selected cities.
+
+Part 1: In this part you are going to prepare a list of cities in Iran and their IDs:
+
+Task 1: Unzip the gz file and move the json file to you workspace and then read the file in KNIME using JSON Reader node.
+
+Task 2: Use JSON Path or XPath (you can use XPath after converting JSON to XML) to get IDs, names and countries from the file.
+
+Task 3: Exclude any other columns than those 3 new columns from task 2.
+
+Task 4: Filter the dataset to keep the records which their country is Iran (IR). As you may see, there are duplicates in cities. Use a GroupBy node and use cities as group column and use "First" or "last" aggregation for IDs. (Countries are not required anymore)
+
+Task 5: Use a Table Row To Variable Loop Start to feed the IDs to the next part of your workflow.
+
+Part 2: In this part you are going to loop over a get request to openweathermap.org and collect the weather information of the cities you have selelcted already:
+
+Task 6: Go to openweathermap.org and read the API documentation of the website and collect the current weather info of the cities you have selected by city IDs.
+
+Bonus Task: Find the states that each city belongs to and then show the mode of weather status for each state.
